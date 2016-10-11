@@ -4,11 +4,22 @@
     <title>The Space Between One and Zero</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://example.com/praxy//</link>
-    <atom:link href="http://example.com/praxy//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 Oct 2016 14:37:14 +1030</pubDate>
-    <lastBuildDate>Tue, 11 Oct 2016 14:37:14 +1030</lastBuildDate>
+    <link>http://example.com/readaloudproject//</link>
+    <atom:link href="http://example.com/readaloudproject//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 11 Oct 2016 14:54:13 +1030</pubDate>
+    <lastBuildDate>Tue, 11 Oct 2016 14:54:13 +1030</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>my second post</title>
+        <description>&lt;p&gt;Look so much &lt;strong&gt;bold&lt;/strong&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 11 Oct 2016 14:41:00 +1030</pubDate>
+        <link>http://example.com/readaloudproject//2016/10/11/my-second-post.html</link>
+        <guid isPermaLink="true">http://example.com/readaloudproject//2016/10/11/my-second-post.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -28,8 +39,8 @@
 
 </description>
         <pubDate>Thu, 06 Oct 2016 16:17:25 +1030</pubDate>
-        <link>http://example.com/praxy//jekyll/update/2016/10/06/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://example.com/praxy//jekyll/update/2016/10/06/welcome-to-jekyll.html</guid>
+        <link>http://example.com/readaloudproject//jekyll/update/2016/10/06/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://example.com/readaloudproject//jekyll/update/2016/10/06/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
